@@ -8,4 +8,4 @@ A space to study full stack development.
 ### Frontend Frameworks
 ## Architecture
 ### Database Demos
-### CI/CD Methods
+## DevOps
