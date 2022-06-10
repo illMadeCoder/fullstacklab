@@ -10,6 +10,8 @@ app.MapGet("/",
   }
 );
 
+app.MapGet("/info", () => "info");
+
 Console.WriteLine("test");
 Console.WriteLine(File.Exists(@".\ClientApp\public\index.html"));
 
